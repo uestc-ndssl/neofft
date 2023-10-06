@@ -1,1 +1,2 @@
-data/*.mat
+data/*.h5
+build
